@@ -74,7 +74,8 @@ The production architecture includes:
 ### Development & Version Control
 - Git
 - GitHub
-- VS Code
+- Kiro
+- VS 
 
 ### Deployment & Infrastructure
 - Netlify
@@ -138,7 +139,6 @@ Planned improvements include:
 
 ### Contact
 <img width="2940" height="1672" alt="4F2EFACD-96B5-4FEA-88DF-0FB25EB4CA91" src="https://github.com/user-attachments/assets/720f7e33-b2ae-49f0-96e4-31c6b2c65662" />
-
 
 ---
 
